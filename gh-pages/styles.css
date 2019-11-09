@@ -1,0 +1,41 @@
+a {
+    color:red;
+    font-size:20px;
+}
+
+div {
+	color:#49B9DE
+}
+
+#silka2 {
+	color: green;
+	
+}
+#zhopa {
+	font-size:36px;
+	color:purple;
+	
+}
+.message {
+	color: #747474;
+	background-color:#CDBE5F;
+	border:1px solid #CD6B68;  
+    margin-left:200px;	
+	margin-right:200px;
+	margin-bottom:10px;
+	padding:15;
+	transition:5.0s transform;
+	
+}
+.message:hover {
+	border:5px solid #CD6B68;
+	transform: rotate(45deg);
+	
+	
+	
+}
+
+body {
+	background-image:url(img/1.jpg);
+
+}
